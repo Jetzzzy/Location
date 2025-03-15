@@ -17,7 +17,7 @@ Html//
 </body>
 </html>
 
-Java//
+Js//
 
 const locationInput = document.getElementById("locationInput");
 const addLocationButton = document.getElementById("addLocationButton");
